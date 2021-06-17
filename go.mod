@@ -1,4 +1,4 @@
-module github.com/ruiaylin/pgparser
+module github.com/dynactionize/pgparser
 
 go 1.14
 
